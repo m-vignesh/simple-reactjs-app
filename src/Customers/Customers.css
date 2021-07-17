@@ -1,0 +1,29 @@
+.customers-list {
+    margin-left:0;
+    margin-right:0;
+}
+
+.customer{
+   margin-top: 1.25rem;
+   margin-bottom: 1.25rem;
+}
+
+.customers-list .details {
+    display:flex;
+    justify-content: space-around;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+
+}
+
+.customers-list .title {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    height: 100%;
+    font-weight: bold;
+    font-size: 2rem;
+
+}

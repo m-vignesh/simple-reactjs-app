@@ -1,0 +1,12 @@
+{
+	"id": 6,
+	"name": "HDFC",
+	"email": "hdfc@test.com",
+	"phone": "98765372833",
+	"city": "Mumbai",
+	"state": "Maharashtra",
+	"country": "India",
+	"organization": "HDFC",
+	"jobProfile": "Business Unit",
+	"additionalInfo": "Banking"
+}

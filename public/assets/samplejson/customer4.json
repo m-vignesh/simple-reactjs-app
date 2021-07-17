@@ -1,0 +1,12 @@
+{
+	"id": 4,
+	"name": "Adam",
+	"email": "Adam@test.com",
+	"phone": "78658744",
+	"city": "Bangalore",
+	"state": "Karnataka",
+	"country": "India",
+	"organization": "Company 4",
+	"jobProfile": "Software Tester",
+	"additionalInfo": "Buys Healthcare Products"
+}
